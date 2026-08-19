@@ -2,7 +2,6 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>900000</Id>
-    <DateBegin>2026-08-19T18:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -60,7 +59,6 @@
   </Ad>
   <Ad>
     <Id>900001</Id>
-    <DateBegin>2026-08-19T18:10:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -118,7 +116,7 @@
   </Ad>
   <Ad>
     <Id>900002</Id>
-    <DateBegin>2026-08-19T18:20:00</DateBegin>
+    <DateBegin>2026-08-19T21:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -176,7 +174,7 @@
   </Ad>
   <Ad>
     <Id>900003</Id>
-    <DateBegin>2026-08-19T18:30:00</DateBegin>
+    <DateBegin>2026-08-19T21:06:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -234,7 +232,7 @@
   </Ad>
   <Ad>
     <Id>900004</Id>
-    <DateBegin>2026-08-19T18:40:00</DateBegin>
+    <DateBegin>2026-08-19T21:12:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -292,7 +290,7 @@
   </Ad>
   <Ad>
     <Id>900005</Id>
-    <DateBegin>2026-08-19T18:50:00</DateBegin>
+    <DateBegin>2026-08-19T21:18:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -350,7 +348,7 @@
   </Ad>
   <Ad>
     <Id>900006</Id>
-    <DateBegin>2026-08-19T19:00:00</DateBegin>
+    <DateBegin>2026-08-19T21:24:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -408,7 +406,7 @@
   </Ad>
   <Ad>
     <Id>900007</Id>
-    <DateBegin>2026-08-19T19:10:00</DateBegin>
+    <DateBegin>2026-08-19T21:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -466,7 +464,7 @@
   </Ad>
   <Ad>
     <Id>900008</Id>
-    <DateBegin>2026-08-19T19:20:00</DateBegin>
+    <DateBegin>2026-08-19T21:36:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -524,7 +522,7 @@
   </Ad>
   <Ad>
     <Id>900009</Id>
-    <DateBegin>2026-08-19T19:30:00</DateBegin>
+    <DateBegin>2026-08-19T21:42:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -582,7 +580,6 @@
   </Ad>
   <Ad>
     <Id>900100</Id>
-    <DateBegin>2026-08-19T19:40:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -639,7 +636,6 @@
   </Ad>
   <Ad>
     <Id>900101</Id>
-    <DateBegin>2026-08-19T19:50:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -696,7 +692,7 @@
   </Ad>
   <Ad>
     <Id>900102</Id>
-    <DateBegin>2026-08-19T20:00:00</DateBegin>
+    <DateBegin>2026-08-19T21:48:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -753,7 +749,7 @@
   </Ad>
   <Ad>
     <Id>900103</Id>
-    <DateBegin>2026-08-19T20:10:00</DateBegin>
+    <DateBegin>2026-08-19T21:54:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -810,7 +806,7 @@
   </Ad>
   <Ad>
     <Id>900104</Id>
-    <DateBegin>2026-08-19T20:20:00</DateBegin>
+    <DateBegin>2026-08-19T22:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -867,7 +863,7 @@
   </Ad>
   <Ad>
     <Id>900105</Id>
-    <DateBegin>2026-08-19T20:30:00</DateBegin>
+    <DateBegin>2026-08-19T22:06:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -924,7 +920,7 @@
   </Ad>
   <Ad>
     <Id>900106</Id>
-    <DateBegin>2026-08-19T20:40:00</DateBegin>
+    <DateBegin>2026-08-19T22:12:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -981,7 +977,7 @@
   </Ad>
   <Ad>
     <Id>900107</Id>
-    <DateBegin>2026-08-19T20:50:00</DateBegin>
+    <DateBegin>2026-08-19T22:18:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1038,7 +1034,7 @@
   </Ad>
   <Ad>
     <Id>900108</Id>
-    <DateBegin>2026-08-19T21:00:00</DateBegin>
+    <DateBegin>2026-08-19T22:24:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1095,7 +1091,7 @@
   </Ad>
   <Ad>
     <Id>900109</Id>
-    <DateBegin>2026-08-19T21:10:00</DateBegin>
+    <DateBegin>2026-08-19T22:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1152,7 +1148,6 @@
   </Ad>
   <Ad>
     <Id>900200</Id>
-    <DateBegin>2026-08-19T21:20:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1208,7 +1203,6 @@
   </Ad>
   <Ad>
     <Id>900201</Id>
-    <DateBegin>2026-08-19T21:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1264,7 +1258,7 @@
   </Ad>
   <Ad>
     <Id>900202</Id>
-    <DateBegin>2026-08-19T21:40:00</DateBegin>
+    <DateBegin>2026-08-19T22:36:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1320,7 +1314,7 @@
   </Ad>
   <Ad>
     <Id>900203</Id>
-    <DateBegin>2026-08-19T21:50:00</DateBegin>
+    <DateBegin>2026-08-19T22:42:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1376,7 +1370,7 @@
   </Ad>
   <Ad>
     <Id>900204</Id>
-    <DateBegin>2026-08-19T22:00:00</DateBegin>
+    <DateBegin>2026-08-19T22:48:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1432,7 +1426,7 @@
   </Ad>
   <Ad>
     <Id>900205</Id>
-    <DateBegin>2026-08-19T22:10:00</DateBegin>
+    <DateBegin>2026-08-19T22:54:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1488,7 +1482,7 @@
   </Ad>
   <Ad>
     <Id>900206</Id>
-    <DateBegin>2026-08-19T22:20:00</DateBegin>
+    <DateBegin>2026-08-19T23:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1544,7 +1538,7 @@
   </Ad>
   <Ad>
     <Id>900207</Id>
-    <DateBegin>2026-08-19T22:30:00</DateBegin>
+    <DateBegin>2026-08-19T23:06:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1600,7 +1594,7 @@
   </Ad>
   <Ad>
     <Id>900208</Id>
-    <DateBegin>2026-08-19T22:40:00</DateBegin>
+    <DateBegin>2026-08-19T23:12:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1656,7 +1650,7 @@
   </Ad>
   <Ad>
     <Id>900209</Id>
-    <DateBegin>2026-08-19T22:50:00</DateBegin>
+    <DateBegin>2026-08-19T23:18:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1712,7 +1706,6 @@
   </Ad>
   <Ad>
     <Id>900300</Id>
-    <DateBegin>2026-08-19T23:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1768,7 +1761,6 @@
   </Ad>
   <Ad>
     <Id>900301</Id>
-    <DateBegin>2026-08-19T23:10:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1824,7 +1816,7 @@
   </Ad>
   <Ad>
     <Id>900302</Id>
-    <DateBegin>2026-08-19T23:20:00</DateBegin>
+    <DateBegin>2026-08-19T23:24:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1936,7 +1928,7 @@
   </Ad>
   <Ad>
     <Id>900304</Id>
-    <DateBegin>2026-08-19T23:40:00</DateBegin>
+    <DateBegin>2026-08-19T23:36:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -1992,7 +1984,7 @@
   </Ad>
   <Ad>
     <Id>900305</Id>
-    <DateBegin>2026-08-19T23:50:00</DateBegin>
+    <DateBegin>2026-08-19T23:42:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2048,7 +2040,7 @@
   </Ad>
   <Ad>
     <Id>900306</Id>
-    <DateBegin>2026-08-20T00:00:00</DateBegin>
+    <DateBegin>2026-08-19T23:48:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2104,7 +2096,7 @@
   </Ad>
   <Ad>
     <Id>900307</Id>
-    <DateBegin>2026-08-20T00:10:00</DateBegin>
+    <DateBegin>2026-08-19T23:54:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2160,7 +2152,7 @@
   </Ad>
   <Ad>
     <Id>900308</Id>
-    <DateBegin>2026-08-20T00:20:00</DateBegin>
+    <DateBegin>2026-08-20T00:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2216,7 +2208,7 @@
   </Ad>
   <Ad>
     <Id>900309</Id>
-    <DateBegin>2026-08-20T00:30:00</DateBegin>
+    <DateBegin>2026-08-20T00:06:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2272,7 +2264,6 @@
   </Ad>
   <Ad>
     <Id>900400</Id>
-    <DateBegin>2026-08-20T00:40:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2328,7 +2319,6 @@
   </Ad>
   <Ad>
     <Id>900401</Id>
-    <DateBegin>2026-08-20T00:50:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2384,7 +2374,7 @@
   </Ad>
   <Ad>
     <Id>900402</Id>
-    <DateBegin>2026-08-20T01:00:00</DateBegin>
+    <DateBegin>2026-08-20T00:12:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2440,7 +2430,7 @@
   </Ad>
   <Ad>
     <Id>900403</Id>
-    <DateBegin>2026-08-20T01:10:00</DateBegin>
+    <DateBegin>2026-08-20T00:18:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2496,7 +2486,7 @@
   </Ad>
   <Ad>
     <Id>900404</Id>
-    <DateBegin>2026-08-20T01:20:00</DateBegin>
+    <DateBegin>2026-08-20T00:24:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2552,7 +2542,7 @@
   </Ad>
   <Ad>
     <Id>900405</Id>
-    <DateBegin>2026-08-20T01:30:00</DateBegin>
+    <DateBegin>2026-08-20T00:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2608,7 +2598,7 @@
   </Ad>
   <Ad>
     <Id>900406</Id>
-    <DateBegin>2026-08-20T01:40:00</DateBegin>
+    <DateBegin>2026-08-20T00:36:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2664,7 +2654,7 @@
   </Ad>
   <Ad>
     <Id>900407</Id>
-    <DateBegin>2026-08-20T01:50:00</DateBegin>
+    <DateBegin>2026-08-20T00:42:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2720,7 +2710,7 @@
   </Ad>
   <Ad>
     <Id>900408</Id>
-    <DateBegin>2026-08-20T02:00:00</DateBegin>
+    <DateBegin>2026-08-20T00:48:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2776,7 +2766,7 @@
   </Ad>
   <Ad>
     <Id>900409</Id>
-    <DateBegin>2026-08-20T02:10:00</DateBegin>
+    <DateBegin>2026-08-20T00:54:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2832,7 +2822,6 @@
   </Ad>
   <Ad>
     <Id>900500</Id>
-    <DateBegin>2026-08-20T02:20:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2888,7 +2877,6 @@
   </Ad>
   <Ad>
     <Id>900501</Id>
-    <DateBegin>2026-08-20T02:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -2944,7 +2932,7 @@
   </Ad>
   <Ad>
     <Id>900502</Id>
-    <DateBegin>2026-08-20T02:40:00</DateBegin>
+    <DateBegin>2026-08-20T01:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3000,7 +2988,7 @@
   </Ad>
   <Ad>
     <Id>900503</Id>
-    <DateBegin>2026-08-20T02:50:00</DateBegin>
+    <DateBegin>2026-08-20T01:06:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3056,7 +3044,7 @@
   </Ad>
   <Ad>
     <Id>900504</Id>
-    <DateBegin>2026-08-20T03:00:00</DateBegin>
+    <DateBegin>2026-08-20T01:12:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3112,7 +3100,7 @@
   </Ad>
   <Ad>
     <Id>900505</Id>
-    <DateBegin>2026-08-20T03:10:00</DateBegin>
+    <DateBegin>2026-08-20T01:18:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3168,7 +3156,7 @@
   </Ad>
   <Ad>
     <Id>900506</Id>
-    <DateBegin>2026-08-20T03:20:00</DateBegin>
+    <DateBegin>2026-08-20T01:24:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3224,7 +3212,7 @@
   </Ad>
   <Ad>
     <Id>900507</Id>
-    <DateBegin>2026-08-20T03:30:00</DateBegin>
+    <DateBegin>2026-08-20T01:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3280,7 +3268,7 @@
   </Ad>
   <Ad>
     <Id>900508</Id>
-    <DateBegin>2026-08-20T03:40:00</DateBegin>
+    <DateBegin>2026-08-20T01:36:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3336,7 +3324,7 @@
   </Ad>
   <Ad>
     <Id>900509</Id>
-    <DateBegin>2026-08-20T03:50:00</DateBegin>
+    <DateBegin>2026-08-20T01:42:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3392,7 +3380,6 @@
   </Ad>
   <Ad>
     <Id>900600</Id>
-    <DateBegin>2026-08-20T04:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3448,7 +3435,6 @@
   </Ad>
   <Ad>
     <Id>900601</Id>
-    <DateBegin>2026-08-20T04:10:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3504,7 +3490,7 @@
   </Ad>
   <Ad>
     <Id>900602</Id>
-    <DateBegin>2026-08-20T04:20:00</DateBegin>
+    <DateBegin>2026-08-20T01:48:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3560,7 +3546,7 @@
   </Ad>
   <Ad>
     <Id>900603</Id>
-    <DateBegin>2026-08-20T04:30:00</DateBegin>
+    <DateBegin>2026-08-20T01:54:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3616,7 +3602,7 @@
   </Ad>
   <Ad>
     <Id>900604</Id>
-    <DateBegin>2026-08-20T04:40:00</DateBegin>
+    <DateBegin>2026-08-20T02:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3672,7 +3658,7 @@
   </Ad>
   <Ad>
     <Id>900605</Id>
-    <DateBegin>2026-08-20T04:50:00</DateBegin>
+    <DateBegin>2026-08-20T02:06:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3728,7 +3714,7 @@
   </Ad>
   <Ad>
     <Id>900606</Id>
-    <DateBegin>2026-08-20T05:00:00</DateBegin>
+    <DateBegin>2026-08-20T02:12:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3784,7 +3770,7 @@
   </Ad>
   <Ad>
     <Id>900607</Id>
-    <DateBegin>2026-08-20T05:10:00</DateBegin>
+    <DateBegin>2026-08-20T02:18:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3840,7 +3826,7 @@
   </Ad>
   <Ad>
     <Id>900608</Id>
-    <DateBegin>2026-08-20T05:20:00</DateBegin>
+    <DateBegin>2026-08-20T02:24:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3896,7 +3882,7 @@
   </Ad>
   <Ad>
     <Id>900609</Id>
-    <DateBegin>2026-08-20T05:30:00</DateBegin>
+    <DateBegin>2026-08-20T02:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -3952,7 +3938,6 @@
   </Ad>
   <Ad>
     <Id>900700</Id>
-    <DateBegin>2026-08-20T05:40:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4008,7 +3993,6 @@
   </Ad>
   <Ad>
     <Id>900701</Id>
-    <DateBegin>2026-08-20T05:50:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4064,7 +4048,7 @@
   </Ad>
   <Ad>
     <Id>900702</Id>
-    <DateBegin>2026-08-20T06:00:00</DateBegin>
+    <DateBegin>2026-08-20T02:36:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4120,7 +4104,7 @@
   </Ad>
   <Ad>
     <Id>900703</Id>
-    <DateBegin>2026-08-20T06:10:00</DateBegin>
+    <DateBegin>2026-08-20T02:42:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4176,7 +4160,7 @@
   </Ad>
   <Ad>
     <Id>900704</Id>
-    <DateBegin>2026-08-20T06:20:00</DateBegin>
+    <DateBegin>2026-08-20T02:48:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4232,7 +4216,7 @@
   </Ad>
   <Ad>
     <Id>900705</Id>
-    <DateBegin>2026-08-20T06:30:00</DateBegin>
+    <DateBegin>2026-08-20T02:54:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4288,7 +4272,7 @@
   </Ad>
   <Ad>
     <Id>900706</Id>
-    <DateBegin>2026-08-20T06:40:00</DateBegin>
+    <DateBegin>2026-08-20T03:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4344,7 +4328,7 @@
   </Ad>
   <Ad>
     <Id>900707</Id>
-    <DateBegin>2026-08-20T06:50:00</DateBegin>
+    <DateBegin>2026-08-20T03:06:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4400,7 +4384,7 @@
   </Ad>
   <Ad>
     <Id>900708</Id>
-    <DateBegin>2026-08-20T07:00:00</DateBegin>
+    <DateBegin>2026-08-20T03:12:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4456,7 +4440,7 @@
   </Ad>
   <Ad>
     <Id>900709</Id>
-    <DateBegin>2026-08-20T07:10:00</DateBegin>
+    <DateBegin>2026-08-20T03:18:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4512,7 +4496,6 @@
   </Ad>
   <Ad>
     <Id>900800</Id>
-    <DateBegin>2026-08-20T07:20:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4568,7 +4551,6 @@
   </Ad>
   <Ad>
     <Id>900801</Id>
-    <DateBegin>2026-08-20T07:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4624,7 +4606,7 @@
   </Ad>
   <Ad>
     <Id>900802</Id>
-    <DateBegin>2026-08-20T07:40:00</DateBegin>
+    <DateBegin>2026-08-20T03:24:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4680,7 +4662,7 @@
   </Ad>
   <Ad>
     <Id>900803</Id>
-    <DateBegin>2026-08-20T07:50:00</DateBegin>
+    <DateBegin>2026-08-20T03:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4736,7 +4718,7 @@
   </Ad>
   <Ad>
     <Id>900804</Id>
-    <DateBegin>2026-08-20T08:00:00</DateBegin>
+    <DateBegin>2026-08-20T03:36:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4792,7 +4774,7 @@
   </Ad>
   <Ad>
     <Id>900805</Id>
-    <DateBegin>2026-08-20T08:10:00</DateBegin>
+    <DateBegin>2026-08-20T03:42:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4848,7 +4830,7 @@
   </Ad>
   <Ad>
     <Id>900806</Id>
-    <DateBegin>2026-08-20T08:20:00</DateBegin>
+    <DateBegin>2026-08-20T03:48:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4904,7 +4886,7 @@
   </Ad>
   <Ad>
     <Id>900807</Id>
-    <DateBegin>2026-08-20T08:30:00</DateBegin>
+    <DateBegin>2026-08-20T03:54:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -4960,7 +4942,7 @@
   </Ad>
   <Ad>
     <Id>900808</Id>
-    <DateBegin>2026-08-20T08:40:00</DateBegin>
+    <DateBegin>2026-08-20T04:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5016,7 +4998,7 @@
   </Ad>
   <Ad>
     <Id>900809</Id>
-    <DateBegin>2026-08-20T08:50:00</DateBegin>
+    <DateBegin>2026-08-20T04:06:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5072,7 +5054,6 @@
   </Ad>
   <Ad>
     <Id>900900</Id>
-    <DateBegin>2026-08-20T09:00:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5130,7 +5111,6 @@
   </Ad>
   <Ad>
     <Id>900901</Id>
-    <DateBegin>2026-08-20T09:10:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5188,7 +5168,7 @@
   </Ad>
   <Ad>
     <Id>900902</Id>
-    <DateBegin>2026-08-20T09:20:00</DateBegin>
+    <DateBegin>2026-08-20T04:12:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5246,7 +5226,7 @@
   </Ad>
   <Ad>
     <Id>900903</Id>
-    <DateBegin>2026-08-20T09:30:00</DateBegin>
+    <DateBegin>2026-08-20T04:18:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5304,7 +5284,7 @@
   </Ad>
   <Ad>
     <Id>900904</Id>
-    <DateBegin>2026-08-20T09:40:00</DateBegin>
+    <DateBegin>2026-08-20T04:24:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5362,7 +5342,7 @@
   </Ad>
   <Ad>
     <Id>900905</Id>
-    <DateBegin>2026-08-20T09:50:00</DateBegin>
+    <DateBegin>2026-08-20T04:30:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5420,7 +5400,7 @@
   </Ad>
   <Ad>
     <Id>900906</Id>
-    <DateBegin>2026-08-20T10:00:00</DateBegin>
+    <DateBegin>2026-08-20T04:36:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5478,7 +5458,7 @@
   </Ad>
   <Ad>
     <Id>900907</Id>
-    <DateBegin>2026-08-20T10:10:00</DateBegin>
+    <DateBegin>2026-08-20T04:42:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5536,7 +5516,7 @@
   </Ad>
   <Ad>
     <Id>900908</Id>
-    <DateBegin>2026-08-20T10:20:00</DateBegin>
+    <DateBegin>2026-08-20T04:48:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
@@ -5594,7 +5574,7 @@
   </Ad>
   <Ad>
     <Id>900909</Id>
-    <DateBegin>2026-08-20T10:30:00</DateBegin>
+    <DateBegin>2026-08-20T04:54:00</DateBegin>
     <ContactPhone>79183679466</ContactPhone>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ManagerName>Мёбиус</ManagerName>
